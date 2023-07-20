@@ -1,2 +1,2 @@
 # TestApp
-DDD Backend Test
+DDD Backend
